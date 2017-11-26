@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war -Xmx300m
+web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port 44920 target/*.war
